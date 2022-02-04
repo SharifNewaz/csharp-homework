@@ -1,0 +1,15 @@
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/obj/Debug/net6.0/OOP.csproj.AssemblyReference.cache
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/obj/Debug/net6.0/OOP.AssemblyInfoInputs.cache
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/obj/Debug/net6.0/OOP.AssemblyInfo.cs
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/bin/Debug/net6.0/OOP
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/bin/Debug/net6.0/OOP.deps.json
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/bin/Debug/net6.0/OOP.runtimeconfig.json
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/bin/Debug/net6.0/OOP.dll
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/bin/Debug/net6.0/ref/OOP.dll
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/bin/Debug/net6.0/OOP.pdb
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/obj/Debug/net6.0/OOP.dll
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/obj/Debug/net6.0/ref/OOP.dll
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/obj/Debug/net6.0/OOP.pdb
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/OOP/obj/Debug/net6.0/OOP.genruntimeconfig.cache

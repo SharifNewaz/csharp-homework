@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1D6E1BB7-2258-4DB2-9DC8-8537C1AED3AD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ReverseArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FibonacciSequence/Program.cs">
+    <Files>
+      <File FileName="ReverseArray/Program.cs" Line="5" Column="25" />
+      <File FileName="FibonacciSequence/Program.cs" Line="26" Column="2" />
+      <File FileName="NumberOfWorkDays/Program.cs" Line="8" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReverseArray" expanded="True">
+            <Node name="FibonacciSequence" expanded="True" />
+            <Node name="NumberOfWorkDays" expanded="True" />
+            <Node name="ReverseArray" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NumberOfWorkDays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FibonacciSequence PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
