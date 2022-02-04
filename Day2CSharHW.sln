@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfWorkDays", "NumberO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{53F5AD6F-93A9-4CDB-ABDB-EF6E8EE8CC37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorOOP", "ColorOOP\ColorOOP.csproj", "{0EAAA60D-D3B7-4349-938C-942F7DD9ABC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{53F5AD6F-93A9-4CDB-ABDB-EF6E8EE8CC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F5AD6F-93A9-4CDB-ABDB-EF6E8EE8CC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F5AD6F-93A9-4CDB-ABDB-EF6E8EE8CC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EAAA60D-D3B7-4349-938C-942F7DD9ABC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAAA60D-D3B7-4349-938C-942F7DD9ABC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAAA60D-D3B7-4349-938C-942F7DD9ABC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAAA60D-D3B7-4349-938C-942F7DD9ABC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

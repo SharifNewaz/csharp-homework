@@ -1,0 +1,15 @@
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/bin/Debug/net6.0/ColorOOP
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/bin/Debug/net6.0/ColorOOP.deps.json
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/bin/Debug/net6.0/ColorOOP.runtimeconfig.json
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/bin/Debug/net6.0/ColorOOP.dll
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/bin/Debug/net6.0/ref/ColorOOP.dll
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/bin/Debug/net6.0/ColorOOP.pdb
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/obj/Debug/net6.0/ColorOOP.csproj.AssemblyReference.cache
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/obj/Debug/net6.0/ColorOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/obj/Debug/net6.0/ColorOOP.AssemblyInfoInputs.cache
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/obj/Debug/net6.0/ColorOOP.AssemblyInfo.cs
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/obj/Debug/net6.0/ColorOOP.csproj.CoreCompileInputs.cache
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/obj/Debug/net6.0/ColorOOP.dll
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/obj/Debug/net6.0/ref/ColorOOP.dll
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/obj/Debug/net6.0/ColorOOP.pdb
+/Users/mohammadsharif/Antra/C#/Day2CSharpHW/ColorOOP/obj/Debug/net6.0/ColorOOP.genruntimeconfig.cache
