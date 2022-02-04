@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorOOP", "ColorOOP\ColorOOP.csproj", "{0EAAA60D-D3B7-4349-938C-942F7DD9ABC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerOrderOOP", "CustomerOrderOPP\CustomerOrderOOP.csproj", "{2AEFAC00-FACB-4D18-A79B-5C908C89DE3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0EAAA60D-D3B7-4349-938C-942F7DD9ABC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EAAA60D-D3B7-4349-938C-942F7DD9ABC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EAAA60D-D3B7-4349-938C-942F7DD9ABC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AEFAC00-FACB-4D18-A79B-5C908C89DE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEFAC00-FACB-4D18-A79B-5C908C89DE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEFAC00-FACB-4D18-A79B-5C908C89DE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEFAC00-FACB-4D18-A79B-5C908C89DE3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

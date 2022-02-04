@@ -1,18 +1,18 @@
-﻿<Properties StartupConfiguration="{0EAAA60D-D3B7-4349-938C-942F7DD9ABC0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OOP/Program.cs">
+﻿<Properties StartupConfiguration="{2AEFAC00-FACB-4D18-A79B-5C908C89DE3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColorOOP/Program.cs">
     <Files>
-      <File FileName="OOP/Program.cs" Line="21" Column="1" />
-      <File FileName="OOP/Person.cs" Line="66" Column="10" />
+      <File FileName="CustomerOrderOPP/Program.cs" Line="9" Column="1" />
+      <File FileName="CustomerOrderOPP/Customer.cs" Line="13" Column="1" />
+      <File FileName="ColorOOP/Program.cs" Line="54" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Day2CSharHW" expanded="True">
-            <Node name="NumberOfWorkDays" expanded="True" />
-            <Node name="OOP" expanded="True">
+            <Node name="ColorOOP" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="ReverseArray" expanded="True" />
+            <Node name="CustomerOrderOOP" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,12 +22,15 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.ReverseArray PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.NumberOfWorkDays PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ColorOOP PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ColorOOP PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.FibonacciSequence PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.OOP PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomerOrderOOP PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
