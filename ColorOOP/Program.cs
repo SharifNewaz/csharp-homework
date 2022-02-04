@@ -34,14 +34,16 @@ namespace ColorOOP
             Console.WriteLine("Third Ball thrown " + thirdBall.TimesBallThrown + " times");
             Console.WriteLine();
 
-            Console.WriteLine("After throwing the ball around we should see different values for Ballthrown.");
+            Console.WriteLine("After throwing the ball around and poping we should see different values for Ballthrown.");
 
             //throw the ball around
             firstBall.ThrowBall();
             secondBall.ThrowBall();
             firstBall.ThrowBall();
             thirdBall.ThrowBall();
+            firstBall.Pop();
             firstBall.ThrowBall();
+            secondBall.Pop();
             thirdBall.ThrowBall();
             Console.WriteLine();
 
